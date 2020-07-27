@@ -8,5 +8,5 @@ A python visualization of the A* path finding algorithm. It allows you to pick y
 
 # Run in Gitpod
 
-You can also run A*-Path-Finding in Gitpod, a free online dev environment for GitHub:
+You can also run A*-Path-Finding in Gitpod, a free online dev environment for GitHub.
 
