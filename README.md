@@ -6,7 +6,3 @@ A python visualization of the A* path finding algorithm. It allows you to pick y
 - TKinter
 - Pygame
 
-# Run in Gitpod
-
-You can also run A*-Path-Finding in Gitpod, a free online dev environment for GitHub.
-
